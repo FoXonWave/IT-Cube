@@ -7,8 +7,8 @@
   * `git clone https://github.com/FoXonWave/IT-Cube.git`
 
 2. Представьтесь git'у, выполнив две команды:
-  * `git config --local user.name 'Vlad Gorokhov'` 
-  * `git config --local user.email 'gvlad284@gmail.com'`
+  * `git config --local user.name 'Vlad Gorokhov'` - где после `user.name` Ваше Имя и Фамилия _(можно и никнейм)_
+  * `git config --local user.email 'gvlad284@gmail.com'` - где после `user.email` ваша почта
 
 3. Создать новую ветку, название которое будет стостоять из твоей фамилии, например 
   * `git checkout -b gorokhov`
